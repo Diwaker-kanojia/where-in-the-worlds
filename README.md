@@ -1,6 +1,6 @@
 # 🌍 Where in the worlds.
 
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/Diwaker-kanojia/countries_api)  
+[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/Diwaker-kanojia/where-in-the-worlds)  
 [![React](https://img.shields.io/badge/React-18-blue?logo=react&logoColor=white)](https://reactjs.org/)  
 [![Vite](https://img.shields.io/badge/Vite-3-orange?logo=vite)](https://vitejs.dev/)  
 [![Axios](https://img.shields.io/badge/Axios-ff69b4?logo=axios&logoColor=white)](https://axios-http.com/)  
