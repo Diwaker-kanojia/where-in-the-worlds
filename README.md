@@ -1,4 +1,4 @@
-# 🌍 Countries API Explorer
+# 🌍 Where in the worlds.
 
 [![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/Diwaker-kanojia/countries_api)  
 [![React](https://img.shields.io/badge/React-18-blue?logo=react&logoColor=white)](https://reactjs.org/)  
@@ -7,7 +7,7 @@
 
 A responsive **React.js** application 🌐 that lets users explore countries around the world using the **REST Countries API**. Includes search, region filter, detailed country pages, dark mode, and responsive design.
 
-[🚀 Live Demo](https://countries-api-six-gamma.vercel.app/)
+[🚀 Live Demo](https://where-in-the-worlds.vercel.app/)
 
 
 ## ✨ Features
@@ -30,7 +30,6 @@ A responsive **React.js** application 🌐 that lets users explore countries aro
 | 📡 HTTP Client   | Axios                      |
 | 💻 Styling       | Plain CSS (with CSS Variables for theming) |
 | 🛠 Build Tool     | Vite                       |
-| ✅ Linting       | ESLint                     |
 
 
 ## 🖼 Screenshots
@@ -48,17 +47,10 @@ A responsive **React.js** application 🌐 that lets users explore countries aro
 
 ```bash
 # Clone the repository
-git clone https://github.com/diwaker-kanojia/countries_api.git
+git clone https://github.com/diwaker-kanojia/where-in-the-worlds.git
 
 # Navigate to project folder
-cd countries_api
+cd where-in-the-worlds
 
 # Install dependencies
 npm install
-
-
-
-
-
-
-
